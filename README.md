@@ -10,4 +10,4 @@ The goal here is
     - Handle security (ssh login via Private Key only)
 
 But first:
-Let's provide 2 virtual machines, that will be used under VirtualBox, through a Vagrantfile
+Let's provide 2 virtual machines, that will be used under VirtualBox, via a [Vagrantfile](Vagrantfile.md)
