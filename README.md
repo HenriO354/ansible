@@ -8,3 +8,6 @@ The goal here is
     - Install packages
     - Provision config files
     - Handle security (ssh login via Private Key only)
+
+But first:
+Let's provide 2 virtual machines, that will be used under VirtualBox, through a Vagrantfile
