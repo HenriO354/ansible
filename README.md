@@ -11,4 +11,4 @@ The goal here is
 But first:
 Let's provide 2 virtual machines, that will be used under VirtualBox, via a [Vagrantfile](Vagrantfile.md)
 
-Once Vagrant is installed in one of the provisionned machine, let's create 3 files: playbook.yml, ansible.cfg and an inventory file.
+Once Vagrant is installed in one of the provisionned machine, create 3 files: playbook.yml, ansible.cfg and an inventory file.
