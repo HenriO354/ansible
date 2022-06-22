@@ -9,6 +9,10 @@ The goal here is
     - Handle security (ssh login via Private Key only)
 
 But first:
-Let's provide 2 virtual machines, that will be used under VirtualBox, via a [Vagrantfile](Vagrantfile.md)
+Let's creat 2 other virtual machines, that will be used under VirtualBox, via a [Vagrantfile](Vagrantfile.md)
 
 Once Vagrant is installed in one of the provisionned machine, create 3 files: playbook.yml, ansible.cfg and an inventory file.
+
+Now, proceed to the install of ansible in the 2 other virtual remote machine.
+
+
