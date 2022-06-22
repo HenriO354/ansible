@@ -9,7 +9,7 @@ The goal here is
     - Handle security (ssh login via Private Key only)
 
 But first:
-Let's creat 2 other virtual machines, that will be used under VirtualBox, via a [Vagrantfile](Vagrantfile.md)
+Let's creat 2 other virtual machines, that will be used under VirtualBox, with a [Vagrantfile](Vagrantfile.md)
 
 Once Vagrant is installed in one of the provisionned machine, create 3 files: playbook.yml, ansible.cfg and an inventory file.
 
