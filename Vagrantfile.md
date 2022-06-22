@@ -5,7 +5,7 @@ NODE_PRIVNET_PREFIX = "192.168.60."<br>
 
 Vagrant.configure("2") do |config|<br><br>
 
-  config.vm.box = NODE_BOX<br<br>><br>
+  config.vm.box = NODE_BOX<br><br><br>
 
   config.vm.provider "virtualbox" do |vb|<br>
     vb.cpus = NODE_CPUS<br>
