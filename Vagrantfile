@@ -21,5 +21,8 @@ Vagrant.configure("2") do |config|
       node.vm.network "private_network", ip: "#{NODE_PRIVNET_PREFIX}#{i+10}"
     end
   end
+
+  config.vm.provision "shell", path: "script.sh"
+
 end
 
